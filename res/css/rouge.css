@@ -208,7 +208,7 @@ figure[class="highlight"] > pre {
 }
 
 div[class="highlighter-rouge"] > pre[class="highlight"] > code{
-    background-color: #21221d;
+    background-color: #DBDBDB;
 }
 div[class="highlighter-rouge"] > pre[class="highlight"] {
     border-radius: 3px;
@@ -216,7 +216,7 @@ div[class="highlighter-rouge"] > pre[class="highlight"] {
     padding: 0.8em 1em; 
     font: 14px/22px Consolas, Monaco, 'Andale Mono', monospace;
     border-radius: 10px;
-    background-color: #21221d;
+    background-color: #DBDBDB;
     background-origin: content-box;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
