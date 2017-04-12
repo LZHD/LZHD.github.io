@@ -212,7 +212,7 @@ div[class="highlighter-rouge"] > pre[class="highlight"] > code{
 }
 div[class="highlighter-rouge"] > pre[class="highlight"] {
     border-radius: 3px;
-    border: 1px solid #111;
+    border: 1px solid #DBDBDB;
     padding: 0.8em 1em; 
     font: 14px/22px Consolas, Monaco, 'Andale Mono', monospace;
     border-radius: 10px;
