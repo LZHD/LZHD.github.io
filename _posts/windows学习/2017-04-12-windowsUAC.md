@@ -11,9 +11,9 @@ date : 2017-04-12
 
 ``` python
 
-# 作者: daodaoliang
-# 版本: V 0.0.1
-# 日期: 2017年04月12日
+ auther  =  'daodaoliang'
+ version =  'V 0.0.1'
+ date    =  '2017年04月12日'
 
 ```
 
