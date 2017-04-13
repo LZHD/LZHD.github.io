@@ -1,4 +1,6 @@
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 
 permalink: blog/:year/:month/:day/:title.html
@@ -11,19 +13,19 @@ safe: true
 gems: [jekyll-paginate]
 
 blog:
-    name: Daodaoliang Blog # 博客名称
-    description: 日日当精进 但求无愧 # 博客描述
-    title: 刀刀亮的博客 # 网页标题
-    url: daodaoliang.github.io # 博客地址
-    duoshuo: daodaoliang # 多说ID
-    tongji: daodaoliang # 百度统计ID
+    name: Daodaoliang
+    description: 日日当精进 但求无愧 
+    title: 刀刀亮的博客
+    url: daodaoliang.com
+    duoshuo: daodaoliang
+    tongji: daodaoliang
     qiniu: # 七牛云地址
 author:
-    name: 徐景亮 # 作者名称
-    email: daodaoliang@yeah.net # 邮箱地址
-    weibo: http://weibo.com/u/5336437516 # 微博地址
-    github: https://github.com/daodaoliang # GitHub地址
-    logo: /res/img/psb.jpg # logo地址
+    name: 徐景亮
+    email: daodaoliang@yeah.net
+    weibo: http://weibo.com/u/5336437516
+    github: https://github.com/daodaoliang
+    logo: /res/img/psb.jpg
     douban:
-        name: http://www.douban.com/people/103498505/    # 豆瓣地址名称
-        key: 07e5af1c9cee1a1a17b10d55d6ca4e4e            # 豆瓣API Key
+        name: http://www.douban.com/people/103498505/
+        key: 07e5af1c9cee1a1a17b10d55d6ca4e4e        
