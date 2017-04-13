@@ -212,11 +212,11 @@ div[class="highlighter-rouge"] > pre[class="highlight"] > code{
 }
 div[class="highlighter-rouge"] > pre[class="highlight"] {
     border-radius: 3px;
-    border: 1px solid #666666;
+    border: 1px solid #F2F2F2;
     padding: 0.8em 1em; 
     font: 14px/22px Consolas, Monaco, 'Andale Mono', monospace;
     border-radius: 10px;
-    background-color: #666666;
+    background-color: #F2F2F2;
     background-origin: content-box;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
