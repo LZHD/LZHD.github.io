@@ -38,7 +38,7 @@ If you prefer to use an external runtime or use a Unix operating system, it is r
 
 如果系统是新安装的并且没有进行相关配置的话，默认应该是`openJDK1.7版本`;
 
-![java版本查看](./img/java-version.png)
+![java版本查看](/res/img/blog/环境搭建/java-version.png)
 
 #### 2.2 安装新的`JDK`
 
@@ -46,11 +46,11 @@ If you prefer to use an external runtime or use a Unix operating system, it is r
 * 在[JDK官网][1]找到对应的`rpm`包进行下载并安装,建议本机迅雷下载完成后再传到服务器,也可以找一些速度快的镜像站进行下载;
 * 下载完后直接安装，然后查看对应的版本信息是否正确;
 
-![](./img/java-upgrade.png)
+![](/res/img/blog/环境搭建/java-upgrade.png)
 
 * 顺手改一下`JAVA_HOME`的环境变量;
 
-![java-home](./img/java-home.png)
+![java-home](/res/img/blog/环境搭建/java-home.png)
 
 ### 3. 安装 `Nexus`
 
@@ -80,7 +80,7 @@ If you prefer to use an external runtime or use a Unix operating system, it is r
 
 增加环境变量`NEXUS_HOME`
 
-![nexus环境变量](./img/nexus.png)
+![nexus环境变量](/res/img/blog/环境搭建/nexus.png)
 
 创建并开启服务
 
@@ -104,7 +104,7 @@ If you prefer to use an external runtime or use a Unix operating system, it is r
 
 增加如下一条:
 
-![iptables](./img/iptables.png)
+![iptables](/res/img/blog/环境搭建/iptables.png)
 
 * 浏览器访问
 
@@ -115,7 +115,7 @@ If you prefer to use an external runtime or use a Unix operating system, it is r
     pwd: admin123
 ```
 
-![](./img/maven.png)
+![](/res/img/blog/环境搭建/maven.png)
 
 默认`nexus`已经帮我们创建了五个库和两个组,我们可以直接使用,其中`Type`为`prosy`的为代理库,`Type`为`hosted`的为宿主库,`Type`为`group`的为组;
 
