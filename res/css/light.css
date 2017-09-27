@@ -124,7 +124,7 @@ a:link {
 	margin-top:-3%;
 }
 .title a {
-	color:#fff;
+	color: #cccccc;
 	font-weight:500;
 	text-shadow:0 0 5px;
 	transition:color 0.5s;
