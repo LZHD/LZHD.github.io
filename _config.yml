@@ -34,3 +34,5 @@ author:
     douban:
         name: http://www.douban.com/people/103498505/
         key: 07e5af1c9cee1a1a17b10d55d6ca4e4e        
+
+theme: jekyll-theme-cayman
