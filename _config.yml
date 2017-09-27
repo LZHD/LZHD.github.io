@@ -18,18 +18,18 @@ safe: true
 gems: [jekyll-paginate]
 
 blog:
-    name: Daodaoliang
-    description: 日日当精进 但求无愧 
-    title: 刀刀亮的博客
+    name: LZHD
+    description: 不求深刻，只求简单。
+    title: 我不想一直是小白的博客
     url: daodaoliang.com
-    duoshuo: daodaoliang
-    tongji: daodaoliang
+    duoshuo: LZHD
+    tongji: LZHD
     qiniu: # 七牛云地址
 author:
-    name: 徐景亮
-    email: daodaoliang@yeah.net
+    name: 樊兴强
+    email: brucefxq@gmail.com
     weibo: http://weibo.com/u/5336437516
-    github: https://github.com/daodaoliang
+    github: https://github.com/LZHD
     logo: /res/img/psb.jpg
     douban:
         name: http://www.douban.com/people/103498505/
