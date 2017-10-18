@@ -49,6 +49,26 @@
 	border-radius:100%;
 	box-shadow:0 0 0 4px #fff;
 }
+#SuperMarie {
+	position: absolute;
+	top: 358px;
+	left: 60px;
+	width: 64px;
+	height: 64px;
+	z-index: 2;
+	background-image: url(../img/SuperMarie.png);
+	background-size: 960px 64px;
+	animation: cjml 300ms steps(3) infinite;
+}
+
+@keyframes cjml {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -196px 0px;
+	}
+}
 .point1 {background-color:#f6393f;}
 .point2 {background-color:#1c87bf;}
 .point3 {background-color:#95c91e;}
