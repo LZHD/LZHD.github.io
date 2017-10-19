@@ -130,7 +130,7 @@ function xhr(type, url, data) {
 
 var search = document.querySelector('.search');
 var searchInput = document.querySelector('.search>input');
-var searchResults = search.querySelector('.search>ul');
+var searchResults = document.querySelector('.search>ul');
 
 function isChild(elem, parent) {
     var node = elem.parentNode;
