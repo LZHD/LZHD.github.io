@@ -442,11 +442,11 @@ sup {
 	position: absolute;
 	top: 475px;
 	left: 60px;
-	width: 64px;
-	height: 64px;
+	width: 128px;
+	height: 128px;
 	z-index: 2;
 	background-image: url(../img/SuperMarie.png);
-	background-size: 960px 64px;
+	background-size: 1920px 128px;
 	animation: cjml 300ms steps(3) infinite;
 }
 
@@ -455,7 +455,7 @@ sup {
 		background-position: 0 0;
 	}
 	100% {
-		background-position: -196px 0px;
+		background-position: -388px 0px;
 	}
 }
 .footnotes {
