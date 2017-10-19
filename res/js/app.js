@@ -3,15 +3,15 @@
  * @author Jonathan Nicol - @mrjnicol
  */
 
-$(document).ready(function() {
-  $('#particles').particleground({
-    dotColor: '#5cbdaa',
-    lineColor: '#5cbdaa'
-  });
-  $('.intro').css({
-    'margin-top': -($('.intro').height() / 2)
-  });
-});
+// $(document).ready(function() {
+//   $('#particles').particleground({
+//     dotColor: '#5cbdaa',
+//     lineColor: '#5cbdaa'
+//   });
+//   $('.intro').css({
+//     'margin-top': -($('.intro').height() / 2)
+//   });
+// });
 
 (function (window, document, undefined) {
 
@@ -129,8 +129,8 @@ function xhr(type, url, data) {
 };
 
 var search = document.querySelector('.search');
-var searchInput = search.querySelector('input');
-var searchResults = search.querySelector('ul');
+var searchInput = document.querySelector('.search>input');
+var searchResults = search.querySelector('.search>ul');
 
 function isChild(elem, parent) {
     var node = elem.parentNode;
