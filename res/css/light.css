@@ -442,7 +442,7 @@ sup {
 	position: absolute;
 	bottom: 0;
 	left: 50%;
-	margin-left: -96px;
+	margin-left: -32px;
 	width: 96px;
 	height: 96px;
 	z-index: 2;
