@@ -171,7 +171,7 @@ function handleSearch() {
             fetched = false;
         });
 }
-
+console.log(searchInput);
 searchInput.addEventListener('focus', handleSearch, false);
 searchInput.addEventListener('input', handleSearch, false);
 search.addEventListener('submit', function handleSubmit(event) { event.preventDefault() }, false);
