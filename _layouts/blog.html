@@ -20,6 +20,7 @@
     <div id="blog">
       {% include sidebar.html %}
       <div class="main">
+      {% include search.html %}
       {{ content }}
       {% if page.index == true or page.post == true %}{% include footer.html %}{% endif %}
       </div>
