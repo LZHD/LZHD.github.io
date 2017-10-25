@@ -239,7 +239,6 @@ a:link {
 	margin-left:25%;
 	margin-top:-10px;
 	padding:0 15px 0 18px;
-	position: relative;
 }
 .posts {
 	background-color: #fff;
@@ -764,8 +763,7 @@ pre code {
 	position: fixed;
 	z-index: 9999;
 	top: 0;
-	left: 250px;
-	right: 0;
+	left: 25%;
 	padding: 15px 15px 0 0;
 	height: 70px;
 	width: 100%;
