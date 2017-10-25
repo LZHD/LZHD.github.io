@@ -26,8 +26,10 @@
           <ul></ul>
         </form>
       </div>
-      {{ content }}
-      {% if page.index == true or page.post == true %}{% include footer.html %}{% endif %}
+        <div id="content">
+          {{ content }}
+          {% if page.index == true or page.post == true %}{% include footer.html %}{% endif %}
+        </div>
       </div>
     </div>
     <div id="top"><a id="rocket" href="javascript:;" title="返回顶部"><i></i></a></div>
