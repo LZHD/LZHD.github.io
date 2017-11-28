@@ -78,6 +78,7 @@
                         window.location.href = (urls[names.indexOf(item)]);
                         return item;
                     },
+                    scrollHeight: 200,
                     addItem: 'No results, please change the keyword to try again.'
                 });
             }
