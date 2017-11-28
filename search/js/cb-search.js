@@ -78,7 +78,7 @@
                         window.location.href = (urls[names.indexOf(item)]);
                         return item;
                     },
-                    addItem: 'No result '+ this.val()
+                    addItem: 'No result: '+ $("#cb-search-content").val()
                 });
             }
         }).error(function(data, b) { console.log("json解析错误，搜索功能暂不可用，请检查文章title，确保不含有换行等特殊符号"); });
