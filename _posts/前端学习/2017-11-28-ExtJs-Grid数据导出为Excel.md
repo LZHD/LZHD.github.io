@@ -18,7 +18,7 @@ date : 2017-11-28
 
 **1. gridToExcel工具函数**
 
-```
+```js
     Ext.override(Ext.grid.GridPanel, {
         downloadExcelXml: function(includeHidden, title) {
     
@@ -246,7 +246,7 @@ date : 2017-11-28
 ```
 **2. Base64 encode/decode转换**
     
-```
+```js
     /**
     *
     *  Base64 encode / decode
@@ -359,7 +359,7 @@ date : 2017-11-28
 **3. 使用方法**
 
 实例
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -456,8 +456,8 @@ date : 2017-11-28
 
 **4. 注意事项**
 
-* 1. 仅在ExtJs3.4.1下测试
-* 2. 由于href长度限制，只支持少量数据导出，大量数据的导出需要借助后台完成。
+* 仅在ExtJs3.4.1下测试
+* 由于href长度限制，只支持少量数据导出，大量数据的导出需要借助后台完成。
 
 **5. 参考链接**
 
