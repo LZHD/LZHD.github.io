@@ -1,14 +1,4 @@
-/**
- * Particleground demo
- * @author Jonathan Nicol - @mrjnicol
- */
-
-$(document).ready(function() {
-  $('#particles').particleground({
-    dotColor: '#5cbdaa',
-    lineColor: '#5cbdaa'
-  });
-  $('.intro').css({
-    'margin-top': -($('.intro').height() / 2)
-  });
-});
+$('#share-1').share();
+$('#share-2').share({sites: ['qzone', 'qq', 'weibo','wechat']});
+$('#share-3').share();
+$('#share-4').share();
