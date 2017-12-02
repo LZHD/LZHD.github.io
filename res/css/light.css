@@ -441,7 +441,7 @@ sup {
 #SuperMarie {
 	position: absolute;
 	bottom: 0;
-	left: 50%;
+	left: 25%;
 	margin-left: -48px;
 	width: 96px;
 	height: 96px;
@@ -449,6 +449,42 @@ sup {
 	background-image: url(../img/SuperMarie.png);
 	background-size: 1440px 96px;
 	animation: cjml 300ms steps(3) infinite;
+}
+
+@-webkit-keyframes cjml {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -288px 0px;
+	}
+}
+
+@-moz-keyframes cjml {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -288px 0px;
+	}
+}
+
+@-o-keyframes cjml {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -288px 0px;
+	}
+}
+
+@-ms-keyframes cjml {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -288px 0px;
+	}
 }
 
 @keyframes cjml {
