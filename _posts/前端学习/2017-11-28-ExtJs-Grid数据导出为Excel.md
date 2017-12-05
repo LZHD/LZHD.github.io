@@ -39,7 +39,7 @@ date : 2017-11-28
                     href: location
                 });
                 el.click();
-                Ext.removeNode(Ext.fly('downloadExcel'));
+                Ext.removeNode(Ext.fly('downloadExcel').dom);
             } else {
                 document.location = location;
             }
