@@ -9,7 +9,7 @@ date : 2017-11-28
 ```
 	作者 : LZHD
 	日期 : 2017-11-28
-	版本 : 0.0.1
+	版本 : 0.0.2
 ```
 
 <!-- more -->
@@ -398,11 +398,7 @@ date : 2017-11-28
                     'name',
                     'phone',
                     'email',
-                    {
-                        name: 'birthday',
-                        type: 'date',
-                        dateFormat: 'd/m/Y'
-                    }
+                    'birthday'
                 ]
             });
 
@@ -412,6 +408,13 @@ date : 2017-11-28
             var grid = new Ext.grid.GridPanel({
                 id: 'static-grid',
                 store: store,
+                tbar: [{
+                    text: '导出Excel',
+                    scope: this,
+                    handler: function () {
+                        grid.downloadExcelXml(false, '文件标题');
+                    }
+                }],
                 columns: [{
                         header: 'NAME',
                         width: 170,
@@ -428,8 +431,7 @@ date : 2017-11-28
                         header: 'BIRTHDAY',
                         width: 100,
                         sortable: true,
-                        dataIndex: 'birthday',
-                        renderer: Ext.util.Format.dateRenderer('d/m/Y')
+                        dataIndex: 'birthday'
                     },
                     {
                         header: 'EMAIL',
@@ -441,17 +443,15 @@ date : 2017-11-28
                 stripeRows: true,
                 autoHeight: true,
                 width: 580,
-                title: 'My Contacts'
+                title: '联系资料'
             });
 
             grid.render('grid-example');
-            grid.downloadExcelXml(false, '文件标题');
         });
     </script>
 </body>
 
 </html>
-
 ```
 
 **4. 注意事项**
@@ -466,3 +466,9 @@ date : 2017-11-28
 Extjs-Grid数据导出成Excel|http://www.cnblogs.com/sb19871023/p/3894452.html
 ExtJs Grid导出到Excel(修正版)|http://extjs.org.cn/node/324
 Generate an Excel File from an Ext JS 4 Grid or Store!|https://druckit.wordpress.com/2013/10/26/generate-an-excel-file-from-an-ext-js-4-grid/
+
+**6. 导出截图**
+
+![gridToExcel1](/res/img/blog/前端学习/gridToExcel1.png)
+
+![gridToExcel](/res/img/blog/前端学习/gridToExcel.png)
