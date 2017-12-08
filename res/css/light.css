@@ -694,12 +694,12 @@ pre code {
 		padding:0;
 	}
 	.post-title {
-		font-size:1.8em;
+		font-size:1.2em;
 		margin-bottom:20px;
-		margin-left:-2px;
+		margin-left:5px;
 	}
 	.post-title:hover {
-		margin-left:-2px;
+		margin-left:5px;
 	}
 	.post-meta {
 		font-size:16px;
