@@ -584,35 +584,35 @@ body {
 }
 
 .hll {
-    background-color: #ffffcc
+    background-color: #ffffcc;
 }
 
 .c {
     color: #408080;
-    font-style: italic
+    font-style: italic;
 }
 
 .k {
     color: #008000;
-    font-weight: bold
+    font-weight: bold;
 }
 
 .o {
-    color: #666666
+    color: #666666;
 }
 
 .cm {
     color: #408080;
-    font-style: italic
+    font-style: italic;
 }
 
 .cp {
-    color: #BC7A00
+    color: #BC7A00;
 }
 
 .c1 {
     color: #408080;
-    font-style: italic
+    font-style: italic;
 }
 
 .cs {
@@ -634,7 +634,7 @@ body {
 
 .gh {
     color: #000080;
-    font-weight: bold
+    font-weight: bold;
 }
 
 .gi {
@@ -660,7 +660,7 @@ body {
 }
 
 .gt {
-    color: #0044DD
+    color: #0044DD;
 }
 
 .kc {
