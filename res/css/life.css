@@ -198,6 +198,10 @@ blockquote {
 	overflow: auto;
 	padding: 6px 10px;
 	border-radius: 5px;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 }
 
 code {
