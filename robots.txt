@@ -1,4 +1,4 @@
 User-Agent: *
 
-Sitemap: http://daodaoliang.com/sitemap.txt
+Sitemap: https://lzhd.github.io/sitemap.txt
 
