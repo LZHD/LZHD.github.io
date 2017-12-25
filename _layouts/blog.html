@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="/res/css/light.css">
     <link rel="stylesheet" href="/res/css/pygments.css">
     <script src="/res/js/light.js"></script>
+    <script src="/res/js/snowfall.jquery.min.js"></script>
     <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     {% include tongji.html %}
 </head>
@@ -41,5 +42,6 @@
 <script src="http://cdn.bootcss.com/mathjax/2.4.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script>MathJax.Hub.Config({tex2jax: {inlineMath: [['\\', '\\']], displayMath: [['$$', '$$']]}});</script>
 {% endif %}
+<script>$(document).snowfall({round : true, minSize: 5, maxSize:8});</script>
 </body>
 </html>
