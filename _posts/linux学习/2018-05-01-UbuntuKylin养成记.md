@@ -8,7 +8,7 @@ date : 2018-05-01
 
 	作者 : LZHD
 	日期 : 2018-05-01(于凌晨00:50)
-	版本 : 0.0.1
+	版本 : 0.0.2
 
 <!-- more -->
 
@@ -26,3 +26,31 @@ date : 2018-05-01
 8. WeChat(微信)
 9. VisualStudio(微软编辑器)
 10. AndroidStudio(APP)
+11. Inkcape(矢量图)
+12. JD-JUI(反编译)
+13. Meld-diff(文件对比)
+14. JasperSoftStudio(报表)
+15. Kodi(影音)
+16. Terminator(超级终端)
+
+**2. 常见问题**
+
+1. 软件包依赖
+
+```sh
+    sudo apt-get update
+    sudo apt-get install -f
+   
+```
+2. 文件管理器卡死
+
+```sh
+    pkill nautilus
+    
+```
+3. 搜狗中文输入法异常
+
+```sh
+    rm -rf ~/.config/SogouPY* ~/.config/sogou*
+
+```
