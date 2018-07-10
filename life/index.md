@@ -928,7 +928,7 @@ title: 心情杂货铺
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center"><a href="/life/2017/4/2018-07-11.html">2018-07-11</a></td>
+      <td style="text-align: center"><a href="/life/2018/7/2018-07-11.html">2018-07-11</a></td>
       <td style="text-align: center"><code class="highlighter-rouge">说什么好呢</code></td>
     </tr>	
   </tbody>
