@@ -33,6 +33,7 @@ date : 2018-05-01
 15. Kodi(影音)
 16. Terminator(超级终端)
 17. geogebra-classic(几何画板)
+18. Remarkable(markdown)
 
 **2. 常见问题**
 
