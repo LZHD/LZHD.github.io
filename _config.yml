@@ -25,14 +25,14 @@ lsi: false
 safe: true
 
 blog:
-    name: LZHD
+    name: 踏学吾痕
     description: 不求深刻，只求简单。
     title: 踏学吾痕的博客
     url: github.com/LZHD
     duoshuo: LZHD
     tongji: LZHD
 author:
-    name: 踏学吾痕
+    name: LZHD
     email: brucefxq@gmail.com
     weibo: http://weibo.com/FXQLZHD
     github: https://github.com/LZHD
