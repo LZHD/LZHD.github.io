@@ -27,12 +27,12 @@ safe: true
 blog:
     name: LZHD
     description: 不求深刻，只求简单。
-    title: 我不想一直是小白的博客
+    title: 踏学吾痕的博客
     url: github.com/LZHD
     duoshuo: LZHD
     tongji: LZHD
 author:
-    name: 我不想一直是小白
+    name: 踏学吾痕
     email: brucefxq@gmail.com
     weibo: http://weibo.com/FXQLZHD
     github: https://github.com/LZHD
