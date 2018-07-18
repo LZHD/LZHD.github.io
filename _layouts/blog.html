@@ -42,6 +42,15 @@
 <script src="http://cdn.bootcss.com/mathjax/2.4.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script>MathJax.Hub.Config({tex2jax: {inlineMath: [['\\', '\\']], displayMath: [['$$', '$$']]}});</script>
 {% endif %}
-<script>$(document).snowfall({round : true, minSize: 5, maxSize:8});</script>
+<script>
+    var nowMonth = new Date().getMonth() + 1;
+    if (nowMonth === 12) {
+        $(document).snowfall({
+            round : true,
+            minSize: 5,
+            maxSize:8
+        });
+    }
+</script>
 </body>
 </html>

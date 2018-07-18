@@ -39,6 +39,15 @@
 <script>MathJax.Hub.Config({tex2jax: {inlineMath: [['\\', '\\']], displayMath: [['$$', '$$']]}});</script>
 {% endif %}
 <script type="text/javascript" src="https://cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
-<script>$(document).snowfall({round : true, minSize: 5, maxSize:8});</script>
+<script>
+    var nowMonth = new Date().getMonth() + 1;
+    if (nowMonth === 12) {
+        $(document).snowfall({
+            round : true,
+            minSize: 5,
+            maxSize:8
+        });
+    }
+</script>
 </body>
 </html>
