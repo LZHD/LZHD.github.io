@@ -1,7 +1,3 @@
-## 简介
-
-[![Join the chat at https://gitter.im/daodaoliang/daodaoliang.github.com](https://badges.gitter.im/daodaoliang/daodaoliang.github.com.svg)](https://gitter.im/daodaoliang/daodaoliang.github.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 这是一款Jekyll博客主题，基础模板采用的是该**Source: [GitHub](https://github.com/pexcn/Jekyll-Light)**下的模板(感谢作者分享),里面我也做了一些个人喜好的修改，若是你喜欢该模板，请在下载后清除我的博文和我的配置信息，谢谢。PS：Enjoy it :）
 
 ## 使用
