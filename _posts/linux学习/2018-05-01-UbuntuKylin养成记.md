@@ -28,15 +28,14 @@ date : 2018-05-01
 10. AndroidStudio(APP)
 11. Inkcape(矢量图)
 12. JD-JUI(反编译)
-13. Meld-diff(文件对比)
+13. Meld-Diff(文件对比)
 14. JasperSoftStudio(报表)
 15. Kodi(影音)
 16. Terminator(超级终端)
 17. geogebra-classic(几何画板)
 18. Remarkable(markdown)
 19. Vim
-20. apache2
-21. Meld diff(文件对比)
+20. Apache2
 21. [git-diffall](https://github.com/thenigan/git-diffall)(git目录对比)
 
 **2. 常见问题**
