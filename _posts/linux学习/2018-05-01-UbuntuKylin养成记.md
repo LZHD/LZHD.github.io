@@ -34,23 +34,27 @@ date : 2018-05-01
 16. Terminator(超级终端)
 17. geogebra-classic(几何画板)
 18. Remarkable(markdown)
+19. Vim
+20. apache2
+21. Meld diff(文件对比)
+21. [git-diffall](https://github.com/thenigan/git-diffall)(git目录对比)
 
 **2. 常见问题**
 
-1. 软件包依赖
+>* 软件包依赖
 
 ```sh
     sudo apt-get update
     sudo apt-get install -f
    
 ```
-2. 文件管理器卡死
+>* 文件管理器卡死
 
 ```sh
     pkill nautilus
     
 ```
-3. 搜狗中文输入法异常
+>* 搜狗中文输入法异常
 
 ```sh
     rm -rf ~/.config/SogouPY* ~/.config/sogou*
