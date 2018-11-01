@@ -37,7 +37,7 @@ date : 2018-05-01
 19. Vim
 20. Apache2
 21. [git-diffall](https://github.com/thenigan/git-diffall)(git目录对比)
-
+22. WebTorren(类似迅雷)
 **2. 常见问题**
 
 >* 软件包依赖
