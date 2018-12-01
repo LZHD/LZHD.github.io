@@ -3,12 +3,12 @@ layout : life
 title: scrcpy配置(手机屏幕共享)
 category : linux学习
 duoshuo: true
-date : 2018-05-01
+date : 2018-12-01
 ---
 
 	作者 : LZHD
 	日期 : 2018-12-01
-	版本 : 0.0.1
+	版本 : 0.0.2
 
 <!-- more -->
 
