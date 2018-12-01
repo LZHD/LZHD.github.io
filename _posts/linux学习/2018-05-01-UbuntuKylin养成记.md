@@ -33,11 +33,16 @@ date : 2018-05-01
 15. Kodi(影音)
 16. Terminator(超级终端)
 17. geogebra-classic(几何画板)
-18. Remarkable(markdown)
-19. Vim
-20. Apache2
+18. Remarkable(markdown编辑器)
+19. Vim(文本编辑器)
+20. Apache2(服务器)
 21. [git-diffall](https://github.com/thenigan/git-diffall)(git目录对比)
 22. WebTorren(类似迅雷)
+23. Privoxy(代理服务器)
+24. [Scrcpy](https://github.com/Genymobile/scrcpy)(Android屏幕共享)
+25. aptitude(Debian及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题)
+26. MusicLake(音乐播放器)[手机端](https://github.com/caiyonglong/MusicLake)|[PC端](https://github.com/sunzongzheng/music)
+
 **2. 常见问题**
 
 >* 软件包依赖
