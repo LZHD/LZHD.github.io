@@ -14,9 +14,9 @@ date : 2018-05-01
 
 ## scrcpy配置(手机屏幕共享)
 
-###1.前期准备[参考](https://github.com/Genymobile/scrcpy/blob/master/BUILD.md)
+### 1.前期准备[参考](https://github.com/Genymobile/scrcpy/blob/master/BUILD.md)
 
-####以Ubuntu16.04为例
+#### 以Ubuntu16.04为例
 
 ```bash
 # runtime dependencies(编译依赖)
@@ -38,7 +38,7 @@ sudo apt-get install -f
 sudo apt-get libsdl2-dev
 ```
 
-###2.开始编译
+### 2.开始编译
 
 ```bash
 meson dir --buildtype release --strip -Db_lto=true \
@@ -53,6 +53,7 @@ sudo ninja install
 * dir为自己所创建的编译输出目录
 * scrcpy-server.jar所在路径必须为系统绝对路径
 
-###3.实际效果
+### 3.实际效果
+
 ![实际效果](/res/img/blog/linux学习/2018-12-01%2012-32.gif)
 
