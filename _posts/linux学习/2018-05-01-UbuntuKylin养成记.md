@@ -42,7 +42,7 @@ date : 2018-05-01
 24. [Scrcpy](https://github.com/Genymobile/scrcpy)(Android屏幕共享)
 25. aptitude(Debian及其衍生系统中强大的包管理工具,类似apt-get,主要处理依赖问题)
 26. MusicLake(音乐播放器)[手机端](https://github.com/caiyonglong/MusicLake)|[PC端](https://github.com/sunzongzheng/music)
-
+27. peek(gif录制)
 **2. 常见问题**
 
 >* 软件包依赖
