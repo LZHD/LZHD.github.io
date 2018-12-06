@@ -36,7 +36,7 @@ date : 2018-05-01
 18. [Remarkable](http://remarkableapp.github.io)(markdown编辑器)
 19. Vim(文本编辑器)
 20. Apache2(服务器)
-21. [git-diffall](https://github.com/thenigan/git-diffall)(git目录对比)
+21. [git-diffall](https://github.com/LZHD/git-diffall)(git目录对比)
 22. [WebTorren](https://webtorrent.io)(类似迅雷)
 23. [Privoxy](http://www.privoxy.org)(代理服务器)
 24. [Scrcpy](https://github.com/Genymobile/scrcpy)(Android屏幕共享)
