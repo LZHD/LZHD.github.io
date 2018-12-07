@@ -45,6 +45,8 @@ date : 2018-05-01
 27. peek(gif录制)
 28. [calibre](https://calibre-ebook.com/download_linux)(电子书阅读)
 29. [Albert](https://github.com/albertlauncher/albert)(全局搜索扩展)
+30. [Shutter](http://shutter-project.org)(截图)
+31. Kazam(录屏)
 
 **2. 常见问题**
 
