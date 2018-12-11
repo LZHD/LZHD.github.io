@@ -49,6 +49,8 @@ date : 2018-05-01
 31. Kazam(录屏)
 32. Unity Tweak Tool(适用于ubuntu Unity桌面的设置管理器)
 33. CompizConfig(设备管理器)
+34. [xDroid](https://www.linzhuotech.com/index.php/home/index/down.html)(跨平台安卓模拟器)
+35. [Anbox](https://docs.anbox.io/index.html)(Linux安卓模拟器)
 
 **2. 常见问题**
 
