@@ -17,6 +17,26 @@ title: 心情杂货铺
 ******
 
 <div class='lifelog'>
+<h2 id="section-20">2018年 12月</h2>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">生命戳</th>
+      <th style="text-align: center">一图志</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="/life/2018/7/2018-12-23.html">2018-12-23</a></td>
+      <td style="text-align: center"><code class="highlighter-rouge">优柔寡断</code></td>
+    </tr>	
+  </tbody>
+</table>
+</div>
+
+******
+
+<div class='lifelog'>
 <h2 id="section-20">2018年 7月</h2>
 <table>
   <thead>
