@@ -24,7 +24,7 @@ date : 2018-05-01
 6. WebStorm(前端)
 7. IdeaIU(后端)
 8. [WeChat](https://github.com/geeeeeeeeek/electronic-wechat)(微信)
-9. VisualStudio(微软编辑器)
+9. VisualStudioCode(微软编辑器)
 10. AndroidStudio(APP)
 11. [Inkcape](https://inkscape.org)(矢量图)
 12. [JD-JUI](http://jd.benow.ca)(反编译)
