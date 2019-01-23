@@ -53,6 +53,7 @@ date : 2018-05-01
 35. [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down)(跨平台 HTTP 高速下载器)
 36. Linux Game(SuperTux、SuperTuxKart、btanks、pingus)
 37. gnome-web-photo(搭配Shutter网页截图)
+38. [Pick](https://kryogenix.org/code/pick/)(拾色器)
 
 **2. 常见问题**
 
