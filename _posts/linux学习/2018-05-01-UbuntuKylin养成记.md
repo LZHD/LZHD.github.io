@@ -54,6 +54,7 @@ date : 2018-05-01
 36. Linux Game(SuperTux、SuperTuxKart、btanks、pingus)
 37. gnome-web-photo(搭配Shutter网页截图)
 38. [Pick](https://kryogenix.org/code/pick/)(拾色器)
+39. [fluxgui](https://github.com/xflux-gui/fluxgui)(根据光线自动调节你的电脑屏幕显示)
 
 **2. 常见问题**
 
