@@ -52,6 +52,7 @@ date : 2018-05-01
 34. [xDroid](https://www.linzhuotech.com/index.php/home/index/down.html)(跨平台安卓模拟器)
 35. [ProxyeeDown](https://github.com/proxyee-down-org/proxyee-down)(跨平台 HTTP 高速下载器)
 36. Linux Game(SuperTux、SuperTuxKart、btanks、pingus)
+37. gnome-web-photo(搭配Shutter网页截图)
 
 **2. 常见问题**
 
