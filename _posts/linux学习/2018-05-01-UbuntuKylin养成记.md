@@ -56,6 +56,7 @@ date : 2018-05-01
 38. [Pick](https://kryogenix.org/code/pick/)(拾色器)
 39. [fluxgui](https://github.com/xflux-gui/fluxgui)(根据光线自动调节你的电脑屏幕显示)
 40. Screen(多会话终端)
+41. [有道词典](http://cidian.youdao.com/index-linux.html)(使用deepin版)
 
 **2. 常见问题**
 
