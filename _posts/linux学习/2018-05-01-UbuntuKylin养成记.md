@@ -58,6 +58,7 @@ date : 2018-05-01
 40. Screen(多会话终端)
 41. [有道词典](http://cidian.youdao.com/index-linux.html)(使用deepin版)
 
+
 **2. 常见问题**
 
 >* 软件包依赖
