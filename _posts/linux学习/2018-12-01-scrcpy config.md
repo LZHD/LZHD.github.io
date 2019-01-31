@@ -8,7 +8,7 @@ date : 2018-12-01
 
 	作者 : LZHD
 	日期 : 2018-12-01
-	版本 : 0.0.2
+	版本 : 0.0.3
 
 <!-- more -->
 
@@ -38,22 +38,35 @@ sudo apt-get install -f
 sudo apt-get libsdl2-dev
 ```
 
-### 2.开始编译
+### 2.开始编译(借助已编译好的scrcpy-server.jar)
 
 ```bash
 meson dir --buildtype release --strip -Db_lto=true \
     -Dprebuilt_server=/path/to/scrcpy-server.jar
 cd dir
 ninja
+```
+
+### 3.从头编译
+```bash
+meson dir --buildtype release --strip -Db_lto=true
+cd dir
+ninja
+```
+
+### 4.安装
+```bash
 sudo ninja install
 ```
+
 ***备注：***
 
 * 此操作在scrcpy源代码目录下进行
 * dir为自己所创建的编译输出目录
 * scrcpy-server.jar所在路径必须为系统绝对路径
+* 操作2和操作3只需要执行一个
 
-### 3.实际效果
+### 5.实际效果
 
 ![实际效果](/res/img/blog/linux学习/2018-12-01%2012-32.gif)
 
