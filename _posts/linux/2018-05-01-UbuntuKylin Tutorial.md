@@ -58,6 +58,9 @@ date : 2018-05-01
 40. Screen(多会话终端)
 41. [有道词典](http://cidian.youdao.com/index-linux.html)(使用deepin版)
 42. [Skype](https://www.skype.com/zh-Hans/get-skype/)(网络通讯工具)
+43. [Xmonad](https://wiki.archlinux.org/index.php/Xmonad_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))(平铺式窗口管理器)
+44. [Xrandr](https://wiki.archlinux.org/index.php/Xrandr_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))(多显示器配置工具)
+45. [ARandR](https://christian.amsuess.com/tools/arandr/)(多显示器配置工具Xrandr的GUI工具)
 
 **2. 常见问题**
 
