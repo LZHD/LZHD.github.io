@@ -66,6 +66,7 @@ date : 2018-05-01
 48. sogoupinyin(搜狗输入法)
 49. WPS(办公软件)
 50. [Motrix](https://github.com/agalwood/Motrix)(跨平台下载工具)
+51. Popcorn Time(影音)
 
 **2. 常见问题**
 
