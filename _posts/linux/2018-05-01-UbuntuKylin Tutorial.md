@@ -12,7 +12,7 @@ date : 2018-05-01
 
 <!-- more -->
 
-### UbuntuKylin养成记
+## UbuntuKylin养成记
 
 **1. 软件**
 
