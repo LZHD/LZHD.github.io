@@ -67,6 +67,8 @@ date : 2018-05-01
 49. WPS(办公软件)
 50. [Motrix](https://github.com/agalwood/Motrix)(跨平台下载工具)
 51. Popcorn Time(影音)
+52. [Cerebro](https://github.com/KELiON/cerebro)(全局搜索预览，类似Spotlight)
+53. [Remmina](https://remmina.org/)(远程桌面连接)
 
 **2. 常见问题**
 
