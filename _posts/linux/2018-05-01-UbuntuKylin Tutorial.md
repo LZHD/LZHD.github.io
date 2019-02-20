@@ -69,6 +69,7 @@ date : 2018-05-01
 51. Popcorn Time(影音)
 52. [Cerebro](https://github.com/KELiON/cerebro)(全局搜索预览，类似Spotlight)
 53. [Remmina](https://remmina.org/)(远程桌面连接)
+54. [Aircrack-ng](https://www.aircrack-ng.org)(WiFi网络安全性工具)
 
 **2. 常见问题**
 
