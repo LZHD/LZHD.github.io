@@ -76,6 +76,8 @@ date : 2018-05-01
 58. [gimp](https://www.gimp.org/downloads/)(图片编辑器类似Photoshop)
 59. [VLC](https://www.videolan.org/)(强大的开源视频播放器)
 60. [Git](https://git-scm.com/)(分布式版本控制系统)
+61. [GParted](https://gparted.org/)(分区编辑器)
+62. [微信开发者工具](https://github.com/cytle/wechat_web_devtools)
 
 **2. 常见问题**
 
