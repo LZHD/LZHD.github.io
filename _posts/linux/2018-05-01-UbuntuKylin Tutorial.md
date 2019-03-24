@@ -73,6 +73,9 @@ date : 2018-05-01
 55. [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/#download)(录屏工具)
 56. [mkusb](https://help.ubuntu.com/community/mkusb)(创建启动驱动器)
 57. [balena-etcher](https://github.com/balena-io/etcher)(创建启动驱动器)
+58. [gimp](https://www.gimp.org/downloads/)(图片编辑器类似Photoshop)
+59. [VLC](https://www.videolan.org/)(强大的开源视频播放器)
+60. [Git](https://git-scm.com/)(分布式版本控制系统)
 
 **2. 常见问题**
 
