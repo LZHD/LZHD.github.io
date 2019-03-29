@@ -78,6 +78,8 @@ date : 2018-05-01
 60. [Git](https://git-scm.com/)(分布式版本控制系统)
 61. [GParted](https://gparted.org/)(分区编辑器)
 62. [微信开发者工具](https://github.com/cytle/wechat_web_devtools)
+63. [my-weather-indicator](https://github.com/atareao/my-weather-indicator)(天气插件)
+64. [uGet](https://ugetdm.com/)(下载管理器)
 
 **2. 常见问题**
 
