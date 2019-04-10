@@ -1,6 +1,6 @@
 ---
 layout : life
-title: UbuntuKylin养成记
+title: Ubuntu养成记
 category : linux学习
 duoshuo: true
 date : 2018-05-01
@@ -12,7 +12,7 @@ date : 2018-05-01
 
 <!-- more -->
 
-## UbuntuKylin养成记
+## Ubuntu养成记
 
 **1. 软件**
 
@@ -80,6 +80,7 @@ date : 2018-05-01
 62. [微信开发者工具](https://github.com/cytle/wechat_web_devtools)
 63. [my-weather-indicator](https://github.com/atareao/my-weather-indicator)(天气插件)
 64. [uGet](https://ugetdm.com/)(下载管理器)
+65. [Postman](https://www.getpostman.com/)(完美的API调试工具)
 
 **2. 常见问题**
 
